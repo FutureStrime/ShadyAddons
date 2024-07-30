@@ -1,7 +1,7 @@
 plugins {
     id 'net.minecraftforge.gradle.forge' version '2.0.2'
     id 'com.github.johnrengelman.shadow' version '6.1.0'
-    id 'org.spongepowered.mixin' version 'd5f9873d60'
+    id 'org.spongepowered.mixin' version '0.8.3'
 }
 
 version = '2.7.2'
