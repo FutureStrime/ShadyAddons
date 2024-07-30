@@ -1,5 +1,5 @@
 plugins {
-    id 'net.minecraftforge.gradle.forge'
+    id 'net.minecraftforge.gradle.forge' version '2.0.2'
     id 'com.github.johnrengelman.shadow' version '6.1.0'
     id 'org.spongepowered.mixin' version 'd5f9873d60'
 }
